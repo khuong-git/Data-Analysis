@@ -1,2 +1,2 @@
 # Data-Analysis
-All projects and documents I made to learn Data Analysis
+Located here is all projects and documents related to my Data Analysis Learning.
