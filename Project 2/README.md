@@ -26,8 +26,9 @@ Task Information
 PART 2: Create Visualizations using IBM's Cognos Analytics (OR Google's Looker Studio )
 Objective:
 The objective of this part of the Final Assignment is to analyze the historical trends in car sales for SwiftAuto Traders. The goal is to provide insights on car sales and profits for each dealer.
+In this lab you will create a dashboard or report using either IBM's Cognos Analytics.
 
-In this lab you will create a dashboard or report using either IBM's Cognos Analytics or Google's Looker Studio.
+The dataset used in this final assignment is provided as sample data within your Cognos environment, in a data module called Auto group data module.
 
 Task Information
 TASK 1: Create a dashboard/report page titled as Sales to capture the following KPI metrics:
