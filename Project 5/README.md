@@ -7,6 +7,7 @@ Your initial task is to gather data on the most sought-after programming skills 
 - Job postings
 - Training portals
 - Developer surveys, such as the latest Stack Overflow Developer Survey
+
 After collecting sufficient data, you will analyze it to identify key insights and trends. Some of the trends you will explore include:
 - Which programming languages are most in demand?
 - Which database technologies are currently most sought after?
