@@ -1,14 +1,19 @@
-The capstone project for the IBM Data Analyst course focuses on analyzing data to derive insights into technological trends using the Stack Overflow Developer Survey dataset.
+Introduction
+You have recently been hired as a Data Analyst by a global IT and business consulting firm renowned for its expertise in IT solutions and highly experienced consultants. To stay competitive in the rapidly evolving technology landscape, your organization regularly analyzes data to identify emerging and future skill requirements.
 
-Project Overview
+Roles and responsibilities:
+As a Data Analyst, you will contribute to this initiative by collecting data from diverse sources and identifying trends for this year's report on in-demand skills. One key source for your analysis will be the latest Developer Survey, a comprehensive dataset offering insights into the global developer community.
+Your initial task is to gather data on the most sought-after programming skills from various sources, including:
+- Job postings
+- Training portals
+- Developer surveys, such as the latest Stack Overflow Developer Survey
+After collecting sufficient data, you will analyze it to identify key insights and trends. Some of the trends you will explore include:
+- Which programming languages are most in demand?
+- Which database technologies are currently most sought after?
+- Which Integrated Development Environments (IDEs) are the most popular?
 
-You will assume the role of an Associate Data Analyst and analyze data to guide strategic business decisions.
-The project involves examining trends in programming languages, databases, platforms, and frameworks.
-Data Analysis Process
+You will begin by scraping internet websites, accessing APIs, and working with datasets like the latest Stack Overflow Developer Survey in various formats such as .csv files, Excel sheets, and databases.
 
-Data collection will be done using API access and web scraping techniques.
-You will perform data wrangling tasks, including handling duplicates and missing values, followed by Exploratory Data Analysis (EDA) to identify patterns.
-Visualization and Presentation
+After gathering the data, you will apply data-wrangling techniques to prepare the data for analysis.
 
-Create visualizations using Python libraries and build interactive dashboards with IBM Cognos Analytics or Google Looker Studio.
-The final deliverable includes a comprehensive PowerPoint presentation summarizing your findings and insights for stakeholders.
+Once the data is prepared, you will employ statistical techniques to analyze the data, identifying key trends and insights. You will then synthesize your findings using IBM Cognos Analytics to create a dashboard that visualizes the results. Finally, you will share your insights through a presentation, showcasing your storytelling and data analysis skills.
